@@ -1,0 +1,8 @@
+{
+  "FastFlags": {
+    "FieldOfViewOverride": {
+      "Enabled": true,
+      "Value": 90
+    }
+  }
+}
